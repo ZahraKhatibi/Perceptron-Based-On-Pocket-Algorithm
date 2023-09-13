@@ -1,6 +1,6 @@
 # Perceptron with Pocket Algorithm
 
-![].(pic.png)
+![](pic.png)
 
 This Python program implements the Perceptron algorithm using the Pocket Algorithm. It is used for binary classification and finding a linear separator that separates two classes of data points. The Pocket Algorithm is employed to find the best linear separator that minimizes the number of misclassifications.
 
